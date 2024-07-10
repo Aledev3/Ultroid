@@ -3,3 +3,4 @@
 https://github.com/New-dev0/Telethon/archive/PlayTime.zip
 py-Ultroid==2022.3.20
 pytgcalls==3.0.0.dev21
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
